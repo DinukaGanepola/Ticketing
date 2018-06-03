@@ -7,7 +7,7 @@
 notes: >
     This template defines the email sent to Staff who select the <strong>Forgot My 
     Password</strong> link on the Staff Control Panel Log In page.
-name: "osTicket Staff Password Reset"
+name: "DinLanka Staff Password Reset"
 body: >
     <h3><strong>Hi %{staff.name.first},</strong></h3>
     <div>

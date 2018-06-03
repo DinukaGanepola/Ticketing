@@ -8,7 +8,7 @@
 notes: >
     This template defines the initial email (optional) sent to Agents when an account
     is created on their behalf.
-name: "Welcome to osTicket"
+name: "Welcome to DinLanka Support Centre"
 body: >
     <h3><strong>Hi %{recipient.name.first},</strong></h3>
     <div>
